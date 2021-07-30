@@ -1,2 +1,5 @@
 
 Generative Adversarial Networks
+
+This repository contains clean implementation of WGAN to generate images of handwritten digits.
+
