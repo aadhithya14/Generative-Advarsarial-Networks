@@ -1,3 +1,5 @@
+#Wassertian GAN
+
 The Wasserstein GAN, or WGAN for short, was introduced by Martin Arjovsky, et al. in their 2017 paper titled “Wasserstein GAN.” [Paper](https://arxiv.org/abs/1701.07875)
 
 
