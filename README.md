@@ -11,6 +11,5 @@ The benefit of the WGAN is that the training process is more stable and less sen
 This repository contains clean implementation of WGAN to generate images of handwritten digits.
 
 
-https://github.com/aadhithya14/Generative-Advarsarial-Networks/blob/main/results.png?raw=true
 
 
